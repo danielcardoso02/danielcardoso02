@@ -3,11 +3,7 @@
 </div>
 
 <div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=F7F7F7&center=true&vCenter=true&width=600&lines=I'm+Daniel+Cardoso!;Hardware+%2B+Software+Engineer;Embedded+Systems+%26+Robotics;Cybersecurity+Enthusiast;Building+Tech+for+Humanity" />
-    <source media="(prefers-color-scheme: light)" srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=000000&center=true&vCenter=true&width=600&lines=I'm+Daniel+Cardoso!;Hardware+%2B+Software+Engineer;Embedded+Systems+%26+Robotics;Cybersecurity+Enthusiast;Building+Tech+for+Humanity" />
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=000000&center=true&vCenter=true&width=600&lines=I'm+Daniel+Cardoso!;Hardware+%2B+Software+Engineer;Embedded+Systems+%26+Robotics;Cybersecurity+Enthusiast;Building+Tech+for+Humanity" alt="Typing Message about Daniel Cardoso" />
-  </picture>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=2EA043&center=true&vCenter=true&width=600&lines=I'm+Daniel+Cardoso!;Hardware+%2B+Software+Engineer;Embedded+Systems+%26+Robotics;Cybersecurity+Enthusiast;Building+Tech+for+Humanity" alt="Typing Message about Daniel Cardoso" />
 </div>
 
 <div align="center"> 
