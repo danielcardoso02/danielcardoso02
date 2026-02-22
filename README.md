@@ -116,12 +116,8 @@
 
 ### 🕹️ Contribution Tetris
 
-<br>
-
 <div align="center">
   <picture>
     <img alt="Custom Tetris Contribution Graph" src="github-tetris.gif">
   </picture>
 </div>
-
-<br>
