@@ -111,3 +111,17 @@
   <img src="https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=black" alt="Swagger" />
   <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS" />
 </p>
+
+---
+
+### 🕹️ Contribution Tetris
+
+<br>
+
+<div align="center">
+  <picture>
+    <img alt="Custom Tetris Contribution Graph" src="github-tetris.gif">
+  </picture>
+</div>
+
+<br>
