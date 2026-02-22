@@ -30,6 +30,8 @@
 * 🛠️ **Experience:** Previously, I worked as a Software Engineering Summer Intern at Codepoint., where I helped build out Schedpoint., handling full-stack PWA development. Whether I am routing a PCB, programming an STM32, or designing a database, I am always pushing myself to learn more and build better.
 * 💻 **Software Engineering:** Cadet at **42 Porto**, currently undertaking the intensive **Common Core** curriculum. Check out my 42-specific projects on my secondary account (press "42 PORTO GITHUB").
 
+<br>
+
 <div align="center">
   <i>"I am always doing that which I cannot do, in order that I may learn how to do it."</i><br>
   — Pablo Picasso
@@ -70,6 +72,7 @@
   <img src="https://img.shields.io/badge/8051-000000?style=for-the-badge&logo=microchip&logoColor=white" alt="8051" />
   <img src="https://img.shields.io/badge/Altium-A5CD39?style=for-the-badge&logo=altium&logoColor=white" alt="Altium" />
   <img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white" alt="Arduino" />
+  <img src="https://img.shields.io/badge/Buildroot-332C2C?style=for-the-badge&logo=linux&logoColor=white" alt="Buildroot" />
   <img src="https://img.shields.io/badge/KiCad-314CB6?style=for-the-badge&logo=kicad&logoColor=white" alt="KiCad" />
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" />
   <img src="https://img.shields.io/badge/PSIM-0055A5?style=for-the-badge&logoColor=white" alt="PSIM" />
@@ -90,6 +93,7 @@
   <img src="https://img.shields.io/badge/LaTeX-008080?style=for-the-badge&logo=latex&logoColor=white" alt="LaTeX" />
   <img src="https://img.shields.io/badge/Make-008080?style=for-the-badge&logo=cmake&logoColor=white" alt="Make" />
   <img src="https://img.shields.io/badge/Microsoft_Office-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white" alt="Microsoft Office" />
+  <img src="https://img.shields.io/badge/Nano-000000?style=for-the-badge&logo=gnu-nano&logoColor=white" alt="Nano" />
   <img src="https://img.shields.io/badge/PyCharm-000000.svg?style=for-the-badge&logo=PyCharm&logoColor=white" alt="PyCharm" />
   <img src="https://img.shields.io/badge/Qt_Creator-41CD52?style=for-the-badge&logo=qt&logoColor=white" alt="Qt Creator" />
   <img src="https://img.shields.io/badge/Vim-019733?style=for-the-badge&logo=vim&logoColor=white" alt="Vim" />
