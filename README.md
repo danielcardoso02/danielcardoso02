@@ -28,7 +28,7 @@
 * 🎓 **Academics:** Master's student in Industrial Electronics and Computers Engineering at the University of Minho. My core specializations are in Embedded Systems and Computers, as well as Control, Automation, and Robotics.
 * 🛡️ **Cybersecurity:** Security shouldn't be an afterthought. I hold a Cisco certification in Introduction to Cybersecurity and participate in the 42 Porto Cybersecurity Club. I am highly focused on implementing secure practices across both software and digital systems.
 * 🛠️ **Experience:** Previously, I worked as a Software Engineering Summer Intern at Codepoint., where I helped build out Schedpoint., handling full-stack PWA development. Whether I am routing a PCB, programming an STM32, or designing a database, I am always pushing myself to learn more and build better.
-* 💻 **Software Engineering:** Cadet at **42 Porto**, currently undertaking the intensive **Common Core** curriculum. Check out my 42-specific projects on my secondary account: [@dsilva-c](https://github.com/dsilva-c).
+* 💻 **Software Engineering:** Cadet at **42 Porto**, currently undertaking the intensive **Common Core** curriculum. Check out my 42-specific projects on my secondary account (press "42 Porto GitHub").
 
 <div align="center">
   <i>"I am always doing that which I cannot do, in order that I may learn how to do it."</i><br>
