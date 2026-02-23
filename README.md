@@ -84,6 +84,8 @@
 
 <h4 align="center">Tools, Editors & Environments</h4>
 <p align="center">
+  <img src="https://img.shields.io/badge/Valgrind-191919?style=for-the-badge&logo=valgrind&logoColor=white" alt="Valgrind" />
+  <img src="https://img.shields.io/badge/GDB-31363B?style=for-the-badge&logo=gnu&logoColor=white" alt="GDB" />
   <img src="https://img.shields.io/badge/CoppeliaSim-FF9900?style=for-the-badge&logoColor=white" alt="CoppeliaSim" />
   <img src="https://img.shields.io/badge/Dev--C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="DevC++" />
   <img src="https://img.shields.io/badge/Fish-4EAA25?style=for-the-badge&logo=fish&logoColor=white" alt="Fish" />
