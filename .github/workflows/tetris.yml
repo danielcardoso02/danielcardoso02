@@ -5,17 +5,20 @@ on:
     - cron: "0 0 * * *" # Runs every day at midnight UTC
   workflow_dispatch:    # Adds a button so you can run it manually anytime
 
+permissions:
+  contents: write
+
 jobs:
   build:
     runs-on: ubuntu-latest
     steps:
       - name: Checkout Repository
-        uses: actions/checkout@v4
+        uses: actions/checkout@v5
 
       - name: Set up Python
-        uses: actions/setup-python@v4
+        uses: actions/setup-python@v6
         with:
-          python-version: '3.10'
+          python-version: '3.12'
 
       - name: Install Dependencies
         run: |
@@ -24,7 +27,9 @@ jobs:
 
       - name: Generate Tetris GIF
         env:
-          GITHUB_TOKEN: ${{ secrets.GRAPHQL_TOKEN }}
+          # The built-in token can read the public contribution calendar,
+          # so no personal access token (which expires) is needed.
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         run: python animate.py
 
       - name: Commit and Push Animation
@@ -32,5 +37,5 @@ jobs:
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
           git add github-tetris.gif
-          git commit -m "🤖 Auto-update Tetris graph" || echo "No changes to commit"
+          git commit -m "🤖 Auto-update Tetris graph" || exit 0
           git push
